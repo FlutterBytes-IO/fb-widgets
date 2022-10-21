@@ -1,0 +1,22 @@
+PODS:
+  - fb_widgets (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - fb_widgets (from `.symlinks/plugins/fb_widgets/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  fb_widgets:
+    :path: ".symlinks/plugins/fb_widgets/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  fb_widgets: 03d727fd847184f7a6fc42ae54ebf7dd4fef348d
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.11.3
